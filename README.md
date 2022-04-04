@@ -1,5 +1,5 @@
 # echart_bt
-leetcode序列化的二叉树画图
+leetcode序列化的二叉树画图,跟echart没任何关系
 1. 打开index.html 
 2. 输入框输入序列化的二叉树
 3. 点确定生成图
